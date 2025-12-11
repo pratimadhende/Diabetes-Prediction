@@ -26,4 +26,24 @@ Predict whether a person has diabetes using physiological measurements and demog
 Install dependencies:
 
 ```bash
+
 pip install pandas numpy matplotlib seaborn scikit-learn
+
+<img src="https://github.com/pratimadhende/Diabetes-Prediction/blob/77c31d52edd7565614e2a65a9e5208ab588cd18e/Confusion%20matrix.png" alt="Image Description" width="600">
+<br>
+Glucose Level Distribution by Diabetes Outcome
+<br>
+<img src="https://github.com/pratimadhende/Diabetes-Prediction/blob/77c31d52edd7565614e2a65a9e5208ab588cd18e/histogram%20or%20distribution%20plot.png" alt="Image Description" width="600">
+<br>
+Insulin Level Comparison Between Diabetic and Non-Diabetic Patients
+<br>
+<img src="https://github.com/pratimadhende/Diabetes-Prediction/blob/77c31d52edd7565614e2a65a9e5208ab588cd18e/box%20plot.png" alt="Image Description" width="600">
+<br>
+Distribution of Diabetic vs Non-Diabetic Patients
+<br>
+<img src="https://github.com/pratimadhende/Diabetes-Prediction/blob/77c31d52edd7565614e2a65a9e5208ab588cd18e/Count%20Plot.png" alt="Image Description" width="600">
+<br>
+Feature Importance for Diabetes Prediction Model
+<br>
+<img src="https://github.com/pratimadhende/Diabetes-Prediction/blob/77c31d52edd7565614e2a65a9e5208ab588cd18e/Feature%20Importance.png" alt="Image Description" width="600">
+
