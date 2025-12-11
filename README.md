@@ -18,16 +18,18 @@ Predict whether a person has diabetes using physiological measurements and demog
 5. Train model: Random Forest Classifier.  
 6. Evaluate model: accuracy, classification report, confusion matrix.  
 7. Visualizations: Confusion matrix, feature importance.
+   
+9. Install dependencies:
+
+```bash
+
+pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## Requirements  
 - Python 3.x  
 - pandas, numpy, matplotlib, seaborn, scikit-learn  
 
-Install dependencies:
 
-```bash
-
-pip install pandas numpy matplotlib seaborn scikit-learn
 
 <img src="https://github.com/pratimadhende/Diabetes-Prediction/blob/77c31d52edd7565614e2a65a9e5208ab588cd18e/Confusion%20matrix.png" alt="Image Description" width="600">
 <br>
@@ -46,4 +48,5 @@ Distribution of Diabetic vs Non-Diabetic Patients
 Feature Importance for Diabetes Prediction Model
 <br>
 <img src="https://github.com/pratimadhende/Diabetes-Prediction/blob/77c31d52edd7565614e2a65a9e5208ab588cd18e/Feature%20Importance.png" alt="Image Description" width="600">
+
 
