@@ -27,19 +27,6 @@ Predict whether a person has diabetes using physiological measurements and demog
 
 ## Plot Preview(Visualization)
 
-Confusion Matrix
-
-<br>
-<br>
-<img src="https://github.com/pratimadhende/Customer-Churn-Prediction/blob/ed704043d4240a57a2ae943ff89673902f6cf605/Confusion_matrix.png" alt="Image Description" width="600">
-<br>
-<br>
- Confusion Matrix
- <br>
- <br>
-<img src="https://github.com/pratimadhende/Customer-Churn-Prediction/blob/ed704043d4240a57a2ae943ff89673902f6cf605/Confusion_matrix.png" alt="Image Description" width="600">
-<br>
-<br>
  Confusion Matrix
  <br>
  <br>
@@ -80,3 +67,4 @@ Install dependencies:
 ```bash
 
 pip install pandas numpy matplotlib seaborn scikit-learn
+
